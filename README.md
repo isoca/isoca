@@ -6,7 +6,7 @@
   
   ✨ A bit of Web Applications, with PHP/HTML/CSS
   
-  ✨ Getting better at SQL databases (specific MySQL)
+  ✨ Getting better at SQL databases
   
   ✨ Remembering VBA, years after learning it for college
   
