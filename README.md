@@ -1,16 +1,15 @@
 - 👋 Hi, I’m @isoca
-- 👀 I’m interested in learning about python and other programming languages in general.
+
 - 🌱 Currently learning and getting better at multiple things:
 
-  ✨ Python: Object Oriented Programming, Flask, and Pandas
+  ✨ Python: Always striving to get better
   
-  ✨ A bit of Web Applications, with PHP/HTML/CSS
+  ✨ A bit of Web Applications, with PHP/HTML/CSS, also Javascript and Frameworks like Angular and React
   
   ✨ Getting better at SQL databases
   
   ✨ Remembering VBA, years after learning it for college
   
-  ✨ New to Git in general
 
 
 <!---
